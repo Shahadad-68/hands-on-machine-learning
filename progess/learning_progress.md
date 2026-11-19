@@ -1,7 +1,7 @@
 # Learning Progress
 
 | Chapter | Topics | Status |
-
+|---|---|---|
 | Chapter 1 | The Machine Learning Landscape | Completed |
 | Chapter 2 | End-to-End ML Project | In Progress |
 | Chapter 3 | Classification | Not Started |
